@@ -1,0 +1,14 @@
+.bi.bi-bell{
+    font-size: large;
+    color: aqua;
+}
+.bi.bi-bell:hover{
+    color: antiquewhite;
+}
+.bi-arrow-right-short{
+    color: #fff;
+    font-size: 30px;
+}
+.btn-info{
+
+}

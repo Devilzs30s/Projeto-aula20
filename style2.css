@@ -1,0 +1,122 @@
+*{
+    color: #25282e;
+    list-style: none;
+}
+a, i{
+    transition: 0.5s;
+    text-decoration: none;
+}
+.cor-seg{
+    color: #555;
+}
+.imagem-centro{
+    background-size: cover;
+    background-position: center;
+}
+.btn{
+    color: #FFF;
+    padding: 7px 10px;
+    border-radius: 0;
+}
+#header{
+    text-align: center;
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+}
+#logo{
+    width: 40px;
+    margin-right: 15px;
+}
+#navbar{
+    padding: 10px;
+    margin: 10px auto;
+}
+#navbar a {
+    width: 180px;
+    color: #444;
+}
+#navbar a:hover{
+    color: #c1b896;
+}
+.main-image{
+    height: 400px;
+    background-image: url('img/1.jpg');
+    position: relative;
+}
+.main-image-info{
+    background-color: #FFF;
+    position: absolute;
+    padding: 20px;
+    left: 25px;
+    bottom: 0;
+    opacity: 0.9;
+
+}
+.bi{
+    color: #FFF;
+}
+.bi .bi-arrow-right:hover{
+    color: #FFF;
+}
+#img1{
+    background-image: url('img/7.jpg');
+    background-repeat: no-repeat;
+}
+#img2{
+    background-image: url('img/8.jpg');
+    background-repeat: no-repeat;
+}
+#img3{
+    background-image: url('img/9.jpg');
+    background-repeat: no-repeat;
+}
+#img4{
+    background-image: url('img/10.jpg');
+    background-repeat: no-repeat;
+}
+#img5{
+    background-image: url('img/11.jpg');
+    background-repeat: no-repeat;
+}
+#img6{
+    background-image: url('img/12.jpg');
+    background-repeat: no-repeat;
+}
+.small-image-container{
+    height: 250px;
+    margin-bottom: 20px;
+}
+#galeria-container h1{
+    text-align: center;
+    color: #444;
+}
+#galeria-container .col-md-6, #galeria-container .col-12{
+margin-bottom: 50px;
+}
+footer{
+    text-align: center;
+    text-decoration: none;
+    color: #25282e;
+    background-color: plum;
+    justify-content: space-around;
+    margin: 0;
+    padding: 0;
+}
+.footer1{
+    justify-content: space-around;
+    background-color: purple;
+}
+.footer2{
+    background-color: plum;
+}
+footer a{
+    font-size: large;
+    color: black;
+    opacity: 0.9;
+    
+    
+}
+footer a:hover{
+    color: aquamarine;
+    
+}
